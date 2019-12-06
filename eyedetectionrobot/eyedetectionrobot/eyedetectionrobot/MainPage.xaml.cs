@@ -13,9 +13,12 @@ namespace eyedetectionrobot
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+        ImageSource image = ImageSource.FromUri(new Uri("https://assets.change.org/photos/5/oe/en/wVoEENmUBcLEAhU-800x450-noPad.jpg?1531231373"));
+
         public MainPage()
         {
             InitializeComponent();
         }
     }
 }
+

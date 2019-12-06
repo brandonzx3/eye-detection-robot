@@ -8,7 +8,10 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Button Text="yeet"></Button>
+        <Label 
+            Text="Nightmare Nightmare Nightmare Nightmare Nightmare Nightmare"
+            FontSize="Large"
+            HorizontalOptions="Center"/>
     </StackLayout>
 
 </ContentPage>
