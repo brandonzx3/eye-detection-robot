@@ -51,6 +51,9 @@
     <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="OpenCV">
+      <HintPath>C:\Users\dkinn\Desktop\Xamarin.Android.OpenCV\src\OpenCV.Binding\bin\Debug\AnyCPU\OpenCV.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
